@@ -1,0 +1,15 @@
+{
+    "name": "advok/google-ss",
+    "authors": [
+        {
+            "name": "OlehM",
+            "email": "olehmhelo@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient":"^2.0",
+        "asimlqt/php-google-spreadsheet-client":"v3.0.2",
+        "php-curl-class/php-curl-class": "^8.6",
+        "electrolinux/phpquery":"0.9.6"
+    }
+}
